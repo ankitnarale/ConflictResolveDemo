@@ -12,4 +12,12 @@ public class Addition {
 		int c= a+b;
 		System.out.println("The Addition of "+a+" & "+b+" is= "+c);
 	}
+
+	public void IMP2(int a, int b){
+		int c= a+b;
+		System.out.println("The Addition of "+a+" & "+b+" is= "+c);
+	}
+
+
+	
 }
